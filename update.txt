@@ -1,5 +1,5 @@
 {
-	"ver": "1.0",
-	"msg": "adbGUI 1.0",
+	"ver": "1.1",
+	"msg": "adbGUI 1.1",
 	"url": "https://github.com/bigsinger/adbgui"
 }
